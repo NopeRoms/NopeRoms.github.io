@@ -2,9 +2,9 @@
 layout: post
 title: Pixel Experience Plus Fan Edition
 subtitle: A semi modified rom by NopeRoms
-cover-img: /assets/img/pixel.jpg
+cover-img: /assets/img/pixel.png
 thumbnail-img: /assets/img/pixel.png
-share-img: /assets/img/pixel.jpg
+share-img: /assets/img/pixel.png
 tags: [roms, pe]
 ---
 
