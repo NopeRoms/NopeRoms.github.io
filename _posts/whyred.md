@@ -2,6 +2,8 @@
 layout: post
 title: AOSP ROMs for Whyred 
 subtitle: Roms by NopeRoms
+thumbnail-img: /assets/img/pixel.png
+share-img: /assets/img/pixel.png
 tags: [roms, pe]
 ---
 [AICP] (https://t.me/redminote5proofficial/1737357)
